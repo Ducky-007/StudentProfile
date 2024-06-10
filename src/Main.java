@@ -19,7 +19,7 @@ public class Main {
                 "The Office",
                 "Freshman");
 
-        //print student's info
+        //print students A and B's info
         System.out.println(
                 studentA.firstName + " " +
                 studentA.lasName + ", " +
